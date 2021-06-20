@@ -1,6 +1,4 @@
 # SpringBootTutorial
-SpringBootTutorial
+SpringBoot Example with JUnit Test Cases
 
-Check branches for spring boot tutorial projects 
 
-SBT01 - Topic : Department
